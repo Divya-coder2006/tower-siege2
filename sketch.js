@@ -143,7 +143,7 @@ function draw() {
   slingShot.display();
   textSize(20);
   fill("white");
-  text("PRESS SPAC TO MOVE BACK THE PLOYGEN TO IT'S POSITION", 180, 350)
+  text("PRESS SPACE TO MOVE BACK THE PLOYGEN TO IT'S POSITION", 180, 350)
 
   drawSprites();
 }
